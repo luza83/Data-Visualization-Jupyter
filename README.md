@@ -1,3 +1,3 @@
 # Data-Visualization-Jupyter
 
-Pandas, Numpy, Seaborn, Matplotlib
+Assignment in Jupyter notebooks to visualize data and use linear regresion using Pandas, Numpy, Seaborn, Matplotlib
